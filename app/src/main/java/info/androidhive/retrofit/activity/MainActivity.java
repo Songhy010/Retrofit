@@ -72,5 +72,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onRestart() {
         super.onRestart();
         Log.e("Hello","Error");
+        Log.e("Hello","Error");
     }
 }
