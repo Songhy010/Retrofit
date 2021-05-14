@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
         Log.e("Test","Hi");
+        Log.e("Test","AA");
     }
 
     @Override
